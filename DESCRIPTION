@@ -1,0 +1,37 @@
+Package: iuneverse
+Title: R metapackage with all the packages needed for our work
+Version: 0.0.1
+Authors@R: 
+    person("Mario", "Yanes", , "myanes@uc3m.es", role = c("aut", "cre")))
+Description: Metapackage used at IUNE.
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    cli,
+    crayon,
+    devtools,
+    dplyr,
+    fulltext,
+    ggplot2,
+    glmnet,
+    httr,
+    MASS,
+    pdftools,
+    pubchunks,
+    quanteda,
+    RColorBrewer,
+    rcrossref,
+    rmarkdown,
+    roadoi,
+    roxygen2,
+    RSelenium,
+    rstudioapi,
+    rvest,
+    stargazer,
+    stringr,
+    tidyr,
+    utils,
+    workflowr,
+    yaml
