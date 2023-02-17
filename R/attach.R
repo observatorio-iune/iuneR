@@ -1,5 +1,5 @@
 
-pkgs <- c("ggplot2", "dplyr", "rmarkdown", "roadoi", "yaml", "httr", "pdftools", "RSelenium", "workflowr", "stringr", "tidyr", "glmnet", "MASS", "stargazer", "rvest", "stringr", "quanteda", "RColorBrewer", "rcrossref", "pubchunks", "devtools", "roxygen2")
+pkgs <- c("ggplot2", "dplyr", "rmarkdown", "roadoi", "yaml", "httr", "RSelenium", "workflowr", "stringr", "tidyr", "glmnet", "MASS", "stargazer", "rvest", "stringr", "quanteda", "RColorBrewer", "rcrossref", "pubchunks", "devtools", "roxygen2")
 
 iuneverse_attach <- function() {
   # Create `to_load` which is a character vector of all iuneverse
